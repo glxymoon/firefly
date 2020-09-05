@@ -16,7 +16,7 @@
   <div class="container text-center">
 
    
-    <div class="row">
+  <div class="row">
       <div class="col-md-6 mx-auto">
         <p class="lead">Type The Given Word Within
           <span class="text-success" id="seconds">5</span> Seconds:</p>
@@ -25,7 +25,7 @@
         <h4 class="mt-3" id="message"></h4>
 
         
-        <div class="row mt-5">
+  <div class="row mt-5">
           <div class="col-md-6">
             <h3>Time Left:
               <span id="time">0</span>
@@ -39,7 +39,7 @@
         </div>
 
   
-        <div class="row mt-5">
+   <div class="row mt-5">
           <div class="col-md-12">
             <div class="card card-body bg-secondary text-white">
               <h5>Instructions</h5>
